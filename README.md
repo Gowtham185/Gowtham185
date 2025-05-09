@@ -8,9 +8,10 @@
       <h1>Hi, I'm Gowtham! 👋</h1>
       <ul>
         <li>🎓 <strong>Master’s in Applied Computing</strong> @ <a href="https://www.uwindsor.ca/graduate-studies/305/applied-computing" target="_blank">University of Windsor</a></li>
-        <li>📅 Graduating in <strong>April 2025</strong> | Available for internship Jan 2025</li>
-        <li>💼 2.5+ years of software development & automation experience</li>
-        <li>🚀 Passionate about clean code, scalable systems, and solving real-world problems</li>
+        <li>📅 Graduating in <strong>April 2025</strong></li>
+        <li>💼 Ex–Software Engineer @ TCS | 2.5+ years in automation & testing</li>
+        <li>🚀 Passionate about scalable code, smart automation & efficient teamwork</li>
+        <li>🧠 Fast learner. Creative problem solver. Agile af.</li>
       </ul>
       <p>
         <a href="https://www.linkedin.com/in/gowthambaskar185">
@@ -26,39 +27,62 @@
 
 ---
 
-### ⚙️ Core Tech Stack
+### ⚙️ Tech Stack
 
-#### 💻 Languages & Tools
+#### 💻 Languages & Tools I Use
 - ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+- ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
 
----
+- 
+#### 🗃️ Databases
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+- ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds)
 
-### 🛠 Additional Tools & Technologies
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-- ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+#### 🚀 CI/CD & DevOps
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+- ![GitLab Actions](https://img.shields.io/badge/Gitlab%20Actions-2088FF?style=for-the-badge&logo=gitlabactions)
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+
+#### 🛠 Other Tools
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+- ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative)
+- ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git)
 - ![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+- ![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook)
+- ![SDLC](https://img.shields.io/badge/SDLC-black?style=for-the-badge)
+
+### 💼 Professional Experience
+
+#### 👨‍💻 **Software Engineer – Tata Consultancy Services** (Jun 2021 – Sep 2023)
+- ✅ Worked in an Agile environment with sprint cycles, retrospectives, and daily stand-ups
+- 🧪 Built automated testing pipelines using Python & Selenium
+- 📉 Reduced manual testing efforts by 40%, improved coverage by 30%
+- 🧩 Acted as SME for internet-scale products with complex testing pipelines
+- 👩‍🏫 Mentored junior testers, ran internal workshops on best practices
+- 📋 Managed test plans, timelines, and regression strategy using Jira
+
+#### 💻 **Software Developer Intern – DuroByte** (Jan 2025 – Apr 2025)
+- ⚡ Built high-performance virtual scrolling with lazy loading in a PHP+MySQL web app
+- 📊 Optimized data render logic for large datasets, reducing initial load time
+- 🎛️ Created dynamic preset filters for reusable UI components
 
 ---
 
-### 💼 Industry Experience
+### 🎓 Education
 
-#### 🚀 Software Engineer – TCS (Jun 2021 – Sep 2023)
-- Led automation testing for a major internet product using Python and Selenium
-- Reduced manual testing by 40%, improved coverage by 30%
-- Created test plans, scenarios, UAT, and post-deployment validation
+- **Master of Applied Computing**  
+  University of Windsor, Canada (2024–2025)
 
-#### 👨‍💻 Software Developer Intern – DuroByte (Jan 2025 – Apr 2025)
-- Built virtual scrolling & lazy loading in a dynamic web app using PHP, MySQL & JS
-- Created preset filters across pages for a CRM-like UI
-- Enhanced performance and data handling for high-volume data
+- **B.Tech in Computer Science**  
+  SRM Institute, Chennai (2017–2021)
 
 ---
 
@@ -75,4 +99,11 @@
 
 ---
 
-_Thanks for scrolling! Let’s build something impactful together 🤝_
+### 😄 Fun Facts About Me
+- 🧠 I solve bugs in my head before I write a single line of code
+- 🤝 I believe in team wins over individual ego
+- ☕ My debugging success rate increases proportionally with caffeine intake
+
+---
+
+_Thanks for checking out my GitHub! Let’s collaborate, innovate, and build something meaningful._
